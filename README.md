@@ -1,4 +1,4 @@
-# Framework
+# Framework by ReidenXerx
 
 ## Project setup
 ```
