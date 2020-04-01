@@ -1,4 +1,4 @@
-# vueproject
+# Framework
 
 ## Project setup
 ```
