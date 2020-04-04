@@ -24,9 +24,9 @@ const routes = [
     component: () => import('../components/Sidebar.vue')
   },
   {
-    path: '/droplist',
-    name: 'Droplist',
-    component: () => import('../components/Droplist.vue')
+    path: '/mihailcomps',
+    name: 'MihailComponents',
+    component: () => import('../views/MihailComponents.vue')
   }
 ]
 
